@@ -6,7 +6,8 @@ import { TasksComponent } from "./tasks/tasks.component";
 import { NgFor, NgIf } from '@angular/common';
 @Component({
   selector: 'app-root',
-  imports: [HeaderComponent, UserComponent, TasksComponent],
+  standalone:false,
+  //imports: [HeaderComponent, UserComponent, TasksComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
