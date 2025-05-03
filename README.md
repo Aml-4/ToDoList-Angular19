@@ -1,4 +1,4 @@
-# MaximalianProject
+# A simple To-Do List Porject To Test Angular19 Features
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.9.
 
